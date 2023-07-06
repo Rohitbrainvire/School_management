@@ -3,7 +3,7 @@
     <data noupdate = '1'>
         <record id="demo_student_1" model="school.management.student">
             <field name="er_num">ENR0001</field>
-            <field name="name">Baburao</field>
+            <field name="name">Aman Deep Singh</field>
             <field name="phone_number">1234567890</field>
             <field name="dob">2000-03-05</field>
             <field name="age">23</field>
