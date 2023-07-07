@@ -19,7 +19,7 @@
         </record>
         <record id="demo_student_3" model="school.management.student">
             <field name="er_num">ENR0003</field>
-            <field name="name">Shyamlal</field>
+            <field name="name">RadheShyam</field>
             <field name="phone_number">5678901234</field>           
             <field name="dob">2000-03-05</field>
             <field name="age">23</field>
