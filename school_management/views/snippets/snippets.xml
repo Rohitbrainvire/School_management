@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<template id="custom_banner" inherit_id="website.snippets" name="Custom Banner">
+		<xpath expr="//div[@id='snippet_structure']//div[hasclass('o_panel_body')]" position="inside">
+			<t t-snippet="school_management.s_callup" string="Custom Banner" />
+			<t t-snippet="school_management.s_school" string="New Banner" />
+			<t t-snippet="school_management.employees_information" string="Dynamic Banner" />
+		</xpath>
+	</template>
+</odoo>

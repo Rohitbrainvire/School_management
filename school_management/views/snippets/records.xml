@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="website.s_cover_default_image" model="ir.attachment">
+            <field name="public" eval="True" />
+            <field name="name">s_school_default_image.jpg</field>
+            <field name="type">url</field>
+            <field name="url">school_management/static/images/s_school.jpeg</field>
+        </record>
+    </data>
+</odoo>
