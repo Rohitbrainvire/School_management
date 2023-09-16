@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <record id="action_owl" model="ir.actions.client">
+            <field name="name">Action Owl</field>
+            <field name="tag">action_component</field>
+            <field name="target">main</field>
+        </record>
+    </data>
+</odoo>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template inherit_id="school_qweb_report" id="school_qweb_report_inherit">
+        <xpath expr="//tr[@id='here']" position="after">
+            <tr >
+                <td>
+                    <strong>DIV:</strong>
+                </td>
+                <td>
+                    <span t-esc="o.division"> </span>
+                </td>
+            </tr>
+        </xpath>
+    </template>
+</odoo>
