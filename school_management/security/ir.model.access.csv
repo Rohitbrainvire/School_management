@@ -1,6 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-school_student_id,student_name,model_school_management_student,,1,1,1,1
-teacher_id,teacher_name,model_school_management_teacher,,1,1,1,1
-librarian_id,librarian_name,model_school_management_library,,1,1,1,1
-access_wizard_id,create_school_info_wizard,model_create_school_info_wizard,,1,1,1,1
-school_management.access_employee_information,access_employee_information,school_management.model_employee_information,,1,1,1,1

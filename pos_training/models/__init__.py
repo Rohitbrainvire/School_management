@@ -1,1 +1,0 @@
-from . import custom_pos,location_pos
