@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_customized_website_customized_website,customized_website.customized_website,model_customized_website_customized_website,base.group_user,1,1,1,1
