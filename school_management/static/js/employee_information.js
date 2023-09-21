@@ -2,7 +2,6 @@
 
 import publicWidget from 'web.public.widget';
 
-
 publicWidget.registry.EmployeeInformation = publicWidget.Widget.extend({
     selector: '.employees-information',
     start() {

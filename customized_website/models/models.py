@@ -8,3 +8,8 @@ class customized_website(models.Model):
     name = fields.Char()
     email = fields.Char()
     message = fields.Text()
+    profession  = fields.Selection([
+        ('Service', 'Service'),
+        ('Business', 'Business'),
+        ('No Work','No Work'),
+    ])

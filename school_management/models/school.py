@@ -11,7 +11,7 @@ class SchoolManagement(models.Model):
 
     # Grade levels for the student
     GRADE_LEVELS = [
-        ('jr_kg', 'Jr. KG'),
+        ('jr_kg', 'Jr. KG'),        
         ('sr_kg', 'Sr. KG'),
         ('1', '1st'),
         ('2', '2nd'),
@@ -26,8 +26,7 @@ class SchoolManagement(models.Model):
         ('11', '11th'),
         ('12', '12th'),
     ]
-    enr_number=fields.One2many('school.management.library')
-    # Division options for the student
+    enr_number=fields.One2many('school.management.library') 
     DIVISION_OPTIONS = [
         ('a', 'A'),
         ('b', 'B')
