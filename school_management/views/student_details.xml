@@ -122,19 +122,7 @@
                 <field name="standard" optional="show" />
                 <field name="gender" optional="show" />
                 <field name="division" optional="show" />
-                <!-- <field name="stream" optional="show" /> -->
-                <!-- <field name="fee_status" optional="show" /> -->
-                <!-- <field name="roll_number" optional="show" /> -->
                 <field name="enr_number" optional="show" />
-                <!-- <field name="class_teacher" optional="show" />
-                <field name="address" optional="show" />
-                <field name="phone_number" optional="show" />
-                <field name="dob" optional="show" />
-                <field name="age" optional="show" />
-                <field name="parent_name" optional="show" />
-                <field name="relation" optional="show" />
-                <field name="parent_phone_number" optional="show" />
-                <field name="email" optional="show" /> -->
             </tree>
         </field>
     </record>

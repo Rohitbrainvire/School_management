@@ -68,6 +68,9 @@
               </div>
             </div>
           </t>
+
+          <h2 class="text-secondary text-center">Here is the Form!!</h2>
+
           <t t-block="custom_form">
             <form class="secondary-background" id="form_result" method="POST"
               style="padding: 10px;">
