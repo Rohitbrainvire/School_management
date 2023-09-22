@@ -11,7 +11,7 @@
                     </group>
                 </sheet>
                 <footer>
-                    <button string="Cancel" class="btn-warning" special="cancel"/>
+                    <button string="Back" class="btn-warning" special="cancel"/>
                     <button name="cancel_admission" string="Cancel Admission" type="object" class="btn-danger"/>
                 </footer>
             </form>
